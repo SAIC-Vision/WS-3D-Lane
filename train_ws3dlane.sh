@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=6 python -m torch.distributed.launch --nproc_per_node=1 --master_port 9570 train_ws3dlane.py --cfg scripts/config_3dlanenet_apollo_ws.yaml
