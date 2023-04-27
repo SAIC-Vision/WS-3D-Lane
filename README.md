@@ -2,14 +2,11 @@
 
 ## Introduction
 
-This is the official pytorch implementation of [WS-3D-Lane, which supervises 3D lane detection network with 2D lane labels.  **[ICRA 2023 paper]**](https://arxiv.org/pdf/2209.11523.pdf)
-
-
-Key feature: A weakly supervised 3D lane detection method with only 2D lane labels.
+This is the official pytorch implementation of [WS-3D-Lane: Weakly Supervised 3D Lane Detection With 2D Lane Labels.  **[ICRA 2023 paper]**](https://arxiv.org/pdf/2209.11523.pdf)
 
 
 ## Baseline
-This repo is based on the open source code of ['Gen-LaneNet'](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) in pytorch. 
+This repo is based on the open source code of [Gen-LaneNet](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) in pytorch. 
 
 ## Requirements
 If you have Anaconda installed, you can directly import the provided environment file.
