@@ -56,12 +56,11 @@ Note: our model weights are under *pth/* folder
 
 Please cite the paper in your publications if it helps your research: 
 
-    @article{2023ws3dlane,
-          title={WS-3D-Lane: Weakly Supervised 3D Lane Detection With 2D Lane Labels}, 
-          author={Jianyong Ai and Wenbo Ding and Jiuhua Zhao and Jiachen Zhong},
-          year={2023},
-          eprint={2209.11523},
-          archivePrefix={arXiv},
+    @article{ai2022ws,
+      title={WS-3D-Lane: Weakly Supervised 3D Lane Detection With 2D Lane Labels},
+      author={Ai, Jianyong and Ding, Wenbo and Zhao, Jiuhua and Zhong, Jiachen},
+      journal={arXiv preprint arXiv:2209.11523},
+      year={2022}
     }
 
 ## Copyright
